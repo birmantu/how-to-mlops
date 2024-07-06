@@ -72,7 +72,7 @@ Here are some guide to get started.
 
 ## MLOPS Real World Use Cases
 
-<--Comming Soon-->
+1/ [Saving 10s of Thousands of Dollars Deploying Low Cost Open Source AI Technologies At Scale with Kubernetes](https://opensauced.pizza/blog/how-we-saved-thousands-of-dollars-deploying-low-cost-open-source-ai-technologies)
 
 ## MLOPS Practical Labs for Beginners
 
